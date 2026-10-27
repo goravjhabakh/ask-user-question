@@ -5,6 +5,7 @@
     "module": "NodeNext",
     "moduleResolution": "NodeNext",
     "target": "ES2024",
+    "jsx": "react-jsx",
     "verbatimModuleSyntax": true,
     "skipLibCheck": true
   },
